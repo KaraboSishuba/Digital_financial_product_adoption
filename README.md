@@ -1,4 +1,4 @@
-#Digital Financial Product Adoption
+### Digital Financial Product Adoption
 
 **Who has moved beyond just having a bank account?**
 
