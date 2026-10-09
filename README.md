@@ -377,11 +377,8 @@ Built from `tbl_findex` with PivotTables, Pivot Charts and four slicers (Indicat
 
 | File | Description |
 |---|---|
-| `data/GlobalFindexDatabase2025.xlsx` | Raw World Bank file, untouched |
-| `queries/raw_findex.m` | Power Query: load the raw sheet and clean `NA` |
-| `queries/agg_reference.m` | Power Query: the 12 summary groups |
-| `queries/tbl_findex.m` | Power Query: the final clean table |
-| `digital_adoption_analysis.xlsx` | Clean tables and the dashboard |
+| `data/GlobalFindexDatabase2025.csv` | Raw World Bank file, untouched |
+| `digital_adoption_analysiss.xlsx` | Clean tables and the dashboard |
 | `README.md` | This file |
 
 ---
